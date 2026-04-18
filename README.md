@@ -116,6 +116,11 @@ The project generates the following outputs:
 
 ---
 
+## Demo Video
+https://youtu.be/vCt3-oWiSXg
+
+---
+
 ## 📈 Key Insights
 
 * Temperature shows a gradual increasing trend
